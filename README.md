@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @urboidanny
+- 👋 Hi, I’m @gladwin
 - 👀 I’m interested in AIML
 - 🌱 I’m currently learning WEB and APP development
 - 💞️ I’m looking to collaborate on web developments.
